@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Matthew J. Denny Resume</title>
+    <link rel="stylesheet" href="stylesheet2.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>Matthew J. Denny</h1>
+    <header>
+        134 Fernwood Road, Trumbull, CT 06611|(203) 400-3523  mdenny728@gmail.com
+    </header>
+    <h2>Education</h2>
+    <p id="gradientBG"> 
+        Syracuse University, Martin J. Whitman School of Management | Syracuse, NY
+        <br />Anticipated Graduation May 2021
+        <br />Bachelor of Science
+        <br />GPA 3.5/4.0, Dean's List Spring 2018, Fall 2019
+    </p>
+    <h2>Work Experience</h2>
+    <p>
+        <strong>Turner Construction Company</strong>
+        <br />Shelton, CT | May 2019-August 2019
+        <br /><em>Fincance Intern</em>
+    </p>
+        <ul>
+            <li>Gained knowledge of SAP and learning how to communicate with a team</li>
+            <li>Responsible for accounts payable, creating monthly bills for clients, and reconciling bank statements</li>
+        </ul>
+    <p>
+        <strong>Drumlins Country Club</strong>
+        <br />Syracuse, NY | August 2018- Present
+        <br /><em>Outside Operations</em>
+    </p>
+        <ul>
+            <li>Support office staff and golf professionals by assisting with equipment maintenance</li>
+            <li>Interact with club members and guests to answer questions and provide assistance</li>
+            <li>Ability to work early hour or late shifts to fill in when staffing is low</li>
+        </ul>
+    <p>
+        <strong>DAP Window Washing Company</strong>
+        <br />Trumbull, CT | June 2018- August 2018
+        <br /><em>Founder</em>
+    </p>
+        <ul>
+            <li>Own and operate a start-up company with 4 employees and over 20 clients in two months with a focus on quality</li>
+            <li>Development of a company logo, website and Facebook page to launch the service, gain market exposure and obtain new clients</li>
+            <li>Use of a detailed estimate sheet to price each job fairly and equitably for customers.  Guaranteed job completion within one week of receipt of estimate.</li>
+        </ul>
+    <h2>Activities</h2>
+    <p>
+        <strong>Enactus (EBV-WEB)</strong>
+        <br />Syracuse, NY | Fall 2017- Present
+        <br /><em>Volunteer</em>
+    </p>
+        <ul>
+            <li>Entrepreneurship program for Veterans with Disabilities</li>
+            <li>Create and manage websites for these new entrepreneurs at below-market rates</li>
+            <li>Work with platforms such as Wix and Squarespace to ensure a great product</li>
+        </ul>
+    <p>
+        <strong>Syracuse University Investment Club</strong>
+        <br />Syracuse, NY | Spring 2017- Present
+
+        <br /><em>E-Board- Member Development </em>
+    </p>
+        <ul>
+            <li>Manage a portfolio worth $150,000 allocating to Macro, Contrarian, Value and Growth strategies</li>
+            <li>Weekly meetings involve student-run industry research and stock pitches to understand market behavior</li>
+        </ul>
+        <h2>Skills</h2>
+        <table>
+            <tr>
+                <td>
+                    <em>Microsoft Excel | </em>
+                </td>
+                <td>
+                    <em>Web Design</em>
+                </td>
+                <td>
+                    <em>Microsoft Office</em>
+                </td>
+            </tr>
+        </table>
+</body>
+</html>
