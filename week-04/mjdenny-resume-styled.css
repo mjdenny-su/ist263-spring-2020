@@ -1,0 +1,55 @@
+body {
+    background-color: #ccc;
+}
+header{
+    font-size: larger;
+}
+p#gradientBG {
+    background-image: url("gradient_bg.png");
+    background-repeat: repeat-x;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    padding: 50px 50px 50px 350px;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(216, 150, 27);
+}
+
+p { 
+    background-color: white;           
+    padding: 10px;
+    margin: 10px;
+
+    border-top-width: 2px;
+    border-top-style: dotted;
+    border-top-color: blue;
+   
+    border-left-width: 2px;
+    border-left-style: solid;
+    border-left-color: black;
+
+    border-bottom-width: 2px;
+    border-bottom-style: dotted;
+    border-bottom-color:blue;
+
+    border-right-width: 2px;
+    border-right-style: dotted;
+    border-right-color: blue;
+
+    font-family: 'Oswald', sans-serif;
+    line-height: 20px;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    font-style: normal;
+    font-weight: normal;
+    width: 100%;
+    color: black
+}
+li{
+    font-family: cursive;
+    margin: 10px;
+    font-size: normal;
+}
