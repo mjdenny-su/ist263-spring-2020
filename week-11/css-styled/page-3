@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title> Resorts Page</title>
+    <link rel="stylesheet" href="project.css">
+    <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
+</head>
+<body class="two">
+    <header>
+        <ul class="nav">
+        <li><a href="page-1.html">Information</a></li>
+        <li><a href="page-2.html">Explore</a></li>
+        <li><a href="page-3.html">Resorts</a></li>
+        </ul>
+    </header>
+    <main>
+        <div class="container-fluid">
+            <img class= "banner" src="places-to-stay.jpg" alt="Village in Switzerland">
+            <div class="centered-1">
+                Places To Stay
+            </div>
+<section class="page-head">
+    <div class="container-1">
+        <div class="box-1">
+          <h1 class="third">About The Resorts Page</h1>
+          <p class="bottom"> This page is dedicated to helping you find a great place to stay while visitng one of these five mountians. I have selected one resort from each mountain after researching reviews, prices and distance to the mountain.
+          </p>
+        </div>
+    </div>
+</section>
+<section class="free-2">
+
+</section>
+<section>
+    <div class="container-1"> 
+        <div class="box-1">
+            <img src="grandhotel.jpg" id="grand" alt="Picture of Killington Grand Hotel">
+        </div>
+        <div class="box-2">
+            <h2>Killington Grand Resort Hotel, VT</h2>
+            <ul>
+                <li>
+                  Average Price: roughly $300 per night 
+                </li>
+                <li>
+                  Distance to the Mountain: .7 miles 
+                </li>
+            </ul>
+        </div>
+        <div class="box-3">
+            <h3>About</h3>
+                <p> For travelers visiting Killington, Killington Grand Resort Hotel is an excellent choice for rest and rejuvenation. Well-known for its family-friendly environment and proximity to great restaurants, Killington Grand Resort Hotel makes it easy to enjoy the best of Killington. As your “home away from home,” the resort rooms offer a flat screen TV, a kitchenette, and air conditioning, and getting online is easy, with free wifi available.
+                </p>
+            <br>
+            <h3> Contact Information </h3>
+            <p>  Address: 228 E Mountain Rd, Killington, VT 05751-9608
+            Telephone: 1(844) 402-2347</p>
+        </div>
+</section>
+<section class="free-2">
+
+</section>
+<section>
+    <div class="container-1"> 
+        <div class="box-1">
+            <img src="bearcreekresort.jpg" id="creek" alt="Picture of Bear Creek Mountain Resort, PA">
+        </div>
+        <div class="box-2">
+                <h2>Bear Creek Resort, PA</h2>
+            <ul>
+                <li>
+                Average Price: Contact accomodation for availability 
+                </li>
+                <li>
+                Distance to the Mountain: On the Mountain
+                </li>
+            </ul>
+        </div>
+        <div class="box-3">
+            <h3>About</h3>
+            <p>Bear Creek Mountain Resort & Conference Center is nestled on over 330 wooded acres in scenic Berks County, Pennsylvania. The resort offers skiing, snowboarding and snowtubing in the winter. During the spring, summer and fall the resort offers hiking, mountain biking, fishing, disc golf, boating, tennis and many other activities. 
+            </p>
+            <br>
+            <h3> Contact Information </h3>
+            <p>Address: 101 Doe Mountain Ln, Macungie, PA 18062-2052
+            Telephone: +1 (833) 412-0332</p>
+        </div>
+</section>
+<section class="free-2">
+
+</section>
+<section>
+    <div class="container-1">
+        <div class="box-1">
+            <img src="bethelinn.jfif" id="bethel" alt="Picture of Bethel Inn Resort, ME">
+        </div>
+        <div class="box-2">
+            <h2>The Bethel Inn Resort, ME</h2>
+            <ul>
+                <li>
+                Average Price: $160 per night  
+                </li>
+                <li>
+                Distance to the Mountain: 7.5 miles 
+                </li>
+            </ul>
+        </div>
+        <div class="box-3">
+            <h3>About</h3>
+            <p> Experience The Bethel Inn Resort in Bethel, Maine, honored with the 2018 Award of Excellence by TripAdvisor. 6 miles from Sunday River Ski Resort and recently named "Best of New England" -Top Resorts for Outdoor Sports. Find traditional Inn rooms to townhomes, many with fireplaces. Enjoy comfortable dining on our Terrace or our casual Millbrook Tavern and Grille with live weekend entertainment. Relax at our health club, featuring a 90° outdoor heated pool, saunas, fitness center & spa services.  
+            </p>
+            <h3> Contact Information </h3>
+            <p>Address: 101 Doe Mountain Ln, Macungie, PA 18062-2052
+            Telephone: +1 (833) 412-0332</p>
+        </div>
+</section>
+<section class="free-2">
+
+</section>
+<section>
+    <div class="container-1">
+        <div class="box-1">
+            <img src="whitefacelodge.jpg" id="lodge" alt="Picture of The Whiteface Lodge, NY">
+        </div>
+        <div class="box-2">
+            <h2>The Whiteface Lodge, NY</h2>
+            <ul>
+                <li>
+                Average Price: $400 per night 
+                </li>
+                <li>
+                Distance to the Mountain: 11.3 miles 
+                </li>
+            </ul>
+        </div>
+        <div class="box-3">
+            <h3>About</h3>
+            <p>   Nestled in the Adirondack Mountains, this exclusive resort is a haven of comfort and elegance. A retreat where guests can relax in sumptuous all suites resort and enjoy superb cuisine. A refined atmosphere, log architecture, fire places, world class spa, year round activities and the Canoe Beach club on Lake Placid. The Lodge is both a family friendly destination and an adult playground or romantic escape. A Member of Leading Hotels of The World and the most Luxurious Full Service Resort in the Adirondacks.
+            </p>
+            <h3> Contact Information </h3>
+            <p>Address: 7 Whiteface Inn Lane, Lake Placid, NY 12946-1275</p>
+        </div>
+    </div>
+</section>
+<section class="free-2">
+
+</section>
+<section>
+    <div class="container-1">
+        <div class="box-1">
+            <img src="redsleigh.jfif" id="red" alt="Picture of Red Sleigh Inn, NH">
+        </div>
+        <div class="box-2">
+            <h2>Red Sleigh Inn, NH</h2>
+            <ul>
+                <li>
+               Average Price: $175 per night 
+               </li>
+               <li>
+               Distance to the Mountain: 2.3 miles 
+               </li>
+            </ul>
+        </div>
+        <div class="box-3">
+            <h3>About</h3>
+            <p>Looking for a place to stay in Lincoln? Then look no further than Red Sleigh Inn, a romantic inn that brings the best of Lincoln to your doorstep. You’ll enjoy relaxing rooms that offer comfortable beds, tasteful decor, private bathrooms, and you can stay connected during your stay as Red Sleigh Inn offers guests free wifi. Red Sleigh Inn offers fresh fruit, yogurt, baked goods and a full cooked breakfast - all included in your room rate.</p>
+            <h3> Contact Information </h3>
+            <p> Address: 191 Pollard Road, Lincoln, NH 03251</p>
+        </div>
+    </div>
+</section>
+<section class="free-2">
+
+</section>
+<footer>
+    <section class="copyright">
+        <div class="container-fluid">
+            <div class="box-6">
+                <h1>Site Map</h1>
+                <ul class="site-map">
+                    <li><a href="page-1.html">Information</a></li>
+                    <li><a href="page-2.html">Explore</a></li>
+                    <li><a href="page-3.html">Resorts</a></li>
+                </ul>
+            </div>
+            <div class="footer-copyright">
+            © 2020 Copyright: Matt Denny
+            </div>
+        </div>
+    </section>
+</footer>
+</main>
+</body>
+</html>
