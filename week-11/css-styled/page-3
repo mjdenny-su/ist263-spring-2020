@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title> Resorts Page</title>
-    <link rel="stylesheet" href="project.css">
+    <link rel="stylesheet" href="../project.css">
     <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
 </head>
 <body class="two">
@@ -15,7 +15,7 @@
     </header>
     <main>
         <div class="container-fluid">
-            <img class= "banner" src="places-to-stay.jpg" alt="Village in Switzerland">
+            <img class= "banner" src="../places-to-stay.jpg" alt="Village in Switzerland">
             <div class="centered-1">
                 Places To Stay
             </div>
@@ -34,7 +34,7 @@
 <section>
     <div class="container-1"> 
         <div class="box-1">
-            <img src="grandhotel.jpg" id="grand" alt="Picture of Killington Grand Hotel">
+            <img src="../grandhotel.jpg" id="grand" alt="Picture of Killington Grand Hotel">
         </div>
         <div class="box-2">
             <h2>Killington Grand Resort Hotel, VT</h2>
@@ -63,7 +63,7 @@
 <section>
     <div class="container-1"> 
         <div class="box-1">
-            <img src="bearcreekresort.jpg" id="creek" alt="Picture of Bear Creek Mountain Resort, PA">
+            <img src="../bearcreekresort.jpg" id="creek" alt="Picture of Bear Creek Mountain Resort, PA">
         </div>
         <div class="box-2">
                 <h2>Bear Creek Resort, PA</h2>
@@ -92,7 +92,7 @@
 <section>
     <div class="container-1">
         <div class="box-1">
-            <img src="bethelinn.jfif" id="bethel" alt="Picture of Bethel Inn Resort, ME">
+            <img src="../bethelinn.jfif" id="bethel" alt="Picture of Bethel Inn Resort, ME">
         </div>
         <div class="box-2">
             <h2>The Bethel Inn Resort, ME</h2>
@@ -120,7 +120,7 @@
 <section>
     <div class="container-1">
         <div class="box-1">
-            <img src="whitefacelodge.jpg" id="lodge" alt="Picture of The Whiteface Lodge, NY">
+            <img src="../whitefacelodge.jpg" id="lodge" alt="Picture of The Whiteface Lodge, NY">
         </div>
         <div class="box-2">
             <h2>The Whiteface Lodge, NY</h2>
@@ -148,7 +148,7 @@
 <section>
     <div class="container-1">
         <div class="box-1">
-            <img src="redsleigh.jfif" id="red" alt="Picture of Red Sleigh Inn, NH">
+            <img src="../redsleigh.jfif" id="red" alt="Picture of Red Sleigh Inn, NH">
         </div>
         <div class="box-2">
             <h2>Red Sleigh Inn, NH</h2>
