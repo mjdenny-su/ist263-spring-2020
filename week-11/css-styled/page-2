@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title> Explore Page</title>
-    <link rel="stylesheet" href="project.css">
+    <link rel="stylesheet" href="../project.css">
     <link href="https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap" rel="stylesheet">
 </head>
 <body>
@@ -15,7 +15,7 @@
   </header>
   <main>
     <div class="container-fluid">
-      <img class= "banner" src="triail-sign.jpg" alt="Trail map sign in Colorado">
+      <img class= "banner" src="../triail-sign.jpg" alt="Trail map sign in Colorado">
       <div class="centered-2">
           Explore The Mountains
       </div>
@@ -27,7 +27,7 @@
             </p>
           </div>
           <div class="box-3">
-            <img src="skitheeast.jfif" id="east" alt="logo containing ski the east">
+            <img src="../skitheeast.jfif" id="east" alt="logo containing ski the east">
         </div>
         </section>
   <section class="page-2">
@@ -48,7 +48,7 @@
       </table>
     </div>
     <div class="box-3"> 
-      <img src="killingtontrailmap.jfif" id="killington" alt="Killington Mountian Trail Map">
+      <img src="../killingtontrailmap.jfif" id="killington" alt="Killington Mountian Trail Map">
     </div>
   </div>
 </section>
@@ -73,7 +73,7 @@
       </table>
     </div>
     <div class="box-3">
-      <img src="bctrailmap.jfif" id="bear-creek" alt="Bear Creek Mountian Trail Map">
+      <img src="../bctrailmap.jfif" id="bear-creek" alt="Bear Creek Mountian Trail Map">
     </div>
   </div>
   </section>
@@ -98,7 +98,7 @@
       </table>
       </div>
       <div class="box-3">
-        <img src="sundaytrailmap.jfif" id="sunday-river" alt="Sunday River Trail Map">
+        <img src="../sundaytrailmap.jfif" id="sunday-river" alt="Sunday River Trail Map">
       </div>
     </div>
   </section>
@@ -123,7 +123,7 @@
         </table>
       </div>
       <div class="box-3">
-        <img src="whitefacetrailmap.jfif" id="whiteface" alt="Whiteface Mountian Trail Map">
+        <img src="../whitefacetrailmap.jfif" id="whiteface" alt="Whiteface Mountian Trail Map">
       </div>
     </div>
   </section>
@@ -148,7 +148,7 @@
         </table>
       </div>
       <div class="box-3">
-        <img src="loontm.jfif" id="loon" alt="Loon Mountain Trail Map">
+        <img src="../loontm.jfif" id="loon" alt="Loon Mountain Trail Map">
       </div>
     </div>
   </section>
