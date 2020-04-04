@@ -14,9 +14,14 @@
     </ul>
   </header>
   <main>
+    <div class="container-fluid">
+      <img class= "banner" src="triail-sign.jpg" alt="Trail map sign in Colorado">
+      <div class="centered-2">
+          Explore The Mountains
+      </div>
     <section class="row-1">
         <div class="container-1">
-          <div class="box-1">
+          <div class="box-5">
             <h1 class="first">About The Explore Page</h1>
             <p class="top"> This is where you can find more information on each of the five mountians including; the trail map and conditions as well as a news cycle jam packed with the latest skiing news from the Northeast.
             </p>
